@@ -15,8 +15,8 @@ deployed application URL - https://fathomless-crag-87592.herokuapp.com/
 ![get tag by id](public/images/screenshot.png)
 
 # Technology
-express JS
-Mongoose
+* express JS
+* Mongoose
 
 # Questions
 [Contact me](chitra.iyer00@gmail.com)
