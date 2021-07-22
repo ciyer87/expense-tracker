@@ -12,7 +12,7 @@ deployed application URL - https://fathomless-crag-87592.herokuapp.com/
 
 # Screenshot
 
-![get tag by id](public/images/screenshot.png)
+![screenshot of expense tracker](public/images/screenshot.png)
 
 # Technology
 * express JS
